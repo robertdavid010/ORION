@@ -1,5 +1,5 @@
 # ORION
-The ORION project (Onion Routed Incentivized Open Network) is a blockchain project creating a new market for bandwidth peering over the Internet. It uses the same incentives and financial model to reward utility contributors for providing bandwidth, and a secure peer-to-peer distribution network to serve data requests.
+The ORION project (Onion Routed Incentivized Open Network) is a blockchain project creating a new market for bandwidth peering over the Internet. It uses the same incentives and a similar financial model as Bitcoin to reward utility contributors for providing bandwidth, and provides a secure peer-to-peer distribution network to serve data requests.
 
 ### Introduction
 This document is a full summary of the custom blockchain project codenamed “ORION” being developed by Monetsu Technology. It contains general information about the technology itself, the prospects for its further development, and the resulting business opportunities that justify its development.
